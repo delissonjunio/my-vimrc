@@ -37,5 +37,8 @@ highlight LineNr ctermfg=grey
 nore ; :
 nore , ;
 
+" a.vim plugin
+source ~/.vim/plugins/a.vim
+
 " configuring the status line
 set statusline=[%n]\ %<%.99f\ %h%w%m%r%{exists('*CapsLockStatusline')?CapsLockStatusline():''}%y%=%-16(\ %l,%c-%v\ %)%P
