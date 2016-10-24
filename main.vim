@@ -49,6 +49,7 @@ Plugin 'raimondi/delimitmate'
 Plugin 'junegunn/limelight.vim'
 Plugin 'junegunn/goyo.vim'
 Plugin 'vim-scripts/nginx.vim'
+Plugin 'mhinz/vim-startify'
 
 " end vundle plugins
 call vundle#end()
